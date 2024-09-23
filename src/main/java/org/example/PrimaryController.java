@@ -7,6 +7,8 @@ import javafx.scene.control.Label;
 
 public class PrimaryController {
 
+
+    //Töklecsó
     @FXML
     Label testLabel;
 
